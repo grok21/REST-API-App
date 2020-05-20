@@ -1,6 +1,6 @@
 # REST-API-App
 
-Todolist designed according to REST-API architecture using MySQL, Express and NodeJS.
+Todolist designed according to REST-API architecture using MySQL, Express and NodeJS.  
 "Edited" means the time moment when this task was marked as done.
 
 ### Main page ###
